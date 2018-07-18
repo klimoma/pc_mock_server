@@ -1,10 +1,392 @@
 {
-  "posts": [
-    { "post_id": 1, "title": "json-server", "author": "typicode" },
-    { "post_id": 2, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "boxes" : [{  "id": 1,
+                "title": "2A1",
+                "box_id": 1,
+                "partner_id": 1,
+                "commodity_id": 1,
+                "zone_id": 4,
+                "logo_url": "https://preparator.eternal.cz/data/proceram/loga/vlajka.png",
+                "img_url": "https://preparator.eternal.cz/data/proceram/boxes/dlazba.jpg",
+                "tags": [{
+                        "title": "Obkladacky",
+                        "tag_id": 1
+                }, {
+                        "title": "Sprchové kouty",
+                        "tag_id": 2
+                }, {
+                        "title": "Zrcadla",
+                        "tag_id": 3
+                }, {
+                        "title": "Dlazby",
+                        "tag_id": 4
+                }, {
+                        "title": "Radiátory",
+                        "tag_id": 5
+                }, {
+                        "title": "Vany",
+                        "tag_id": 6
+                }
+                , {
+                        "title": "Sprchové kouty",
+                        "tag_id": 7
+                }
+                , {
+                        "title": "Ostatní",
+                        "tag_id": 8
+                }
+                ]
+        },
+        {		
+        		"id": 2,
+                "title": "2A2",
+                "box_id": 2,
+                "partner_id": 1,
+                "commodity_id": 1,
+                "zone_id": 4,
+                "logo_url": "https://preparator.eternal.cz/data/proceram/loga/vlajka.png",
+                "img_url": "https://preparator.eternal.cz/data/proceram/boxes/kamenny_obklad.jpg",
+                "tags": [{
+                        "title": "Obkladacky",
+                        "tag_id": 1
+                }, {
+                        "title": "Sprchové kouty",
+                        "tag_id": 2
+                }, {
+                        "title": "Zrcadla",
+                        "tag_id": 3
+                }, {
+                        "title": "Dlazby",
+                        "tag_id": 4
+                }, {
+                        "title": "Radiátory",
+                        "tag_id": 5
+                }, {
+                        "title": "Vany",
+                        "tag_id": 6
+                }
+                , {
+                        "title": "Sprchové kouty",
+                        "tag_id": 7
+                }
+                , {
+                        "title": "Ostatní",
+                        "tag_id": 8
+                }
+                ]
+        },
+        {
+        		"id": 3,
+                "title": "2A3",
+                "box_id": 3,
+                "partner_id": 1,
+                "commodity_id": 1,
+                "zone_id": 4,
+                "logo_url": "https://preparator.eternal.cz/data/proceram/loga/vlajka.png",
+                "img_url": "https://preparator.eternal.cz/data/proceram/boxes/kancelar.jpg",
+                "tags": [{
+                        "title": "Obkladacky",
+                        "tag_id": 1
+                }, {
+                        "title": "Sprchové kouty",
+                        "tag_id": 2
+                }, {
+                        "title": "Zrcadla",
+                        "tag_id": 3
+                }, {
+                        "title": "Dlazby",
+                        "tag_id": 4
+                }, {
+                        "title": "Radiátory",
+                        "tag_id": 5
+                }, {
+                        "title": "Vany",
+                        "tag_id": 6
+                }
+                , {
+                        "title": "Sprchové kouty",
+                        "tag_id": 7
+                }
+                , {
+                        "title": "Ostatní",
+                        "tag_id": 8
+                }
+                ]
+        }
+        ,
+        {
+        		"id": 4,
+                "title": "2A4",
+                "box_id": 4,
+                "partner_id": 1,
+                "commodity_id": 1,
+                "zone_id": 4,
+                "logo_url": "https://preparator.eternal.cz/data/proceram/loga/vlajka.png",
+                "img_url": "https://preparator.eternal.cz/data/proceram/boxes/koupelna.jpg",
+                "tags": [{
+                        "title": "Obkladacky",
+                        "tag_id": 1
+                }, {
+                        "title": "Sprchové kouty",
+                        "tag_id": 2
+                }, {
+                        "title": "Zrcadla",
+                        "tag_id": 3
+                }, {
+                        "title": "Dlazby",
+                        "tag_id": 4
+                }, {
+                        "title": "Radiátory",
+                        "tag_id": 5
+                }, {
+                        "title": "Vany",
+                        "tag_id": 6
+                }
+                , {
+                        "title": "Sprchové kouty",
+                        "tag_id": 7
+                }
+                , {
+                        "title": "Ostatní",
+                        "tag_id": 8
+                }
+                ]
+        },
+        {
+        		"id": 5,
+                "title": "2A5",
+                "box_id": 5,
+                "partner_id": 1,
+                "commodity_id": 1,
+                "zone_id": 4,
+                "logo_url": "https://preparator.eternal.cz/data/proceram/loga/vlajka.png",
+                "img_url": "https://preparator.eternal.cz/data/proceram/boxes/kuchyn.jpg",
+                "tags": [{
+                        "title": "Obkladacky",
+                        "tag_id": 1
+                }, {
+                        "title": "Sprchové kouty",
+                        "tag_id": 2
+                }, {
+                        "title": "Zrcadla",
+                        "tag_id": 3
+                }, {
+                        "title": "Dlazby",
+                        "tag_id": 4
+                }, {
+                        "title": "Radiátory",
+                        "tag_id": 5
+                }, {
+                        "title": "Vany",
+                        "tag_id": 6
+                }
+                , {
+                        "title": "Sprchové kouty",
+                        "tag_id": 7
+                }
+                , {
+                        "title": "Ostatní",
+                        "tag_id": 8
+                }
+                ]
+        },
+        {
+        		"id": 6,
+                "title": "2A6",
+                "box_id": 6,
+                "partner_id": 1,
+                "commodity_id": 1,
+                "zone_id": 4,
+                "logo_url": "https://preparator.eternal.cz/data/proceram/loga/vlajka.png",
+                "img_url": "https://preparator.eternal.cz/data/proceram/boxes/loznice.jpg",
+                "tags": [{
+                        "title": "Obkladacky",
+                        "tag_id": 1
+                }, {
+                        "title": "Sprchové kouty",
+                        "tag_id": 2
+                }, {
+                        "title": "Zrcadla",
+                        "tag_id": 3
+                }, {
+                        "title": "Dlazby",
+                        "tag_id": 4
+                }, {
+                        "title": "Radiátory",
+                        "tag_id": 5
+                }, {
+                        "title": "Vany",
+                        "tag_id": 6
+                }
+                , {
+                        "title": "Sprchové kouty",
+                        "tag_id": 7
+                }
+                , {
+                        "title": "Ostatní",
+                        "tag_id": 8
+                }
+                ]
+        }
+],
+
+"curriosities": [{
+	  "id": 1,
+      "title": "Kamenný obklad (od 20€)",
+      "partner_id": 1,
+      "curiosity_id": 1,
+      "commodity_id": 1,
+      "zone_id": 1,
+      "priority": 15, 
+      "thumb_url": "https://preparator.eternal.cz/data/proceram/curriosities/stena.jpg",
+      "img_url": "https://preparator.eternal.cz/data/proceram/curriosities/stena.jpg"
+    },
+    {
+    	"id": 2,
+      "title": "Koupelny se slevou až 50%",
+      "partner_id": 1,
+      "commodity_id": 1,
+      "curiosity_id": 2,
+      "zone_id": 1,
+      "priority": 16, 
+      "thumb_url": "https://preparator.eternal.cz/data/proceram/curriosities/koupelna.jpg",
+      "img_url": "https://preparator.eternal.cz/data/proceram/curriosities/koupelna.jpg"
+    }
+    ,
+    {
+    	"id": 3,
+      "title": "Venkovní dlažby",
+      "partner_id": 1,
+      "commodity_id": 1,
+      "curiosity_id": 3,
+      "zone_id": 2,
+      "priority": 1,
+      "thumb_url": "https://preparator.eternal.cz/data/proceram/curriosities/dlazba.jpg",
+      "img_url": "https://preparator.eternal.cz/data/proceram/curriosities/dlazba.jpg"
+  },
+  {
+  	"id": 4,
+        "title": "Nové moderní kuchyně",
+        "partner_id": 2,
+        "commodity_id": 2,
+        "curiosity_id": 4,
+        "zone_id": 2,
+        "priority": 166,
+        "thumb_url": "https://preparator.eternal.cz/data/proceram/curriosities/kuchyn.jpg",
+        "img_url": "https://preparator.eternal.cz/data/proceram/curriosities/kuchyn.jpg"
+    }, {
+    	"id": 5,
+        "title": "Ložnice",
+        "partner_id": 1,
+        "commodity_id": 2,
+        "curiosity_id": 5,
+        "zone_id": 3,
+        "priority": 2,
+        "thumb_url": "https://preparator.eternal.cz/data/proceram/curriosities/loznice.jpg",
+        "img_url": "https://preparator.eternal.cz/data/proceram/curriosities/loznice.jpg"
+    }, {
+    	"id": 6,
+        "title": "Moderní kanceláře",
+        "partner_id": 1,
+        "commodity_id": 2,
+        "curiosity_id": 6,
+        "zone_id": 3,
+        "priority": 2,
+        "thumb_url": "https://preparator.eternal.cz/data/proceram/curriosities/kancelar.jpg",
+        "img_url": "https://preparator.eternal.cz/data/proceram/curriosities/kancelar.jpg"
+        }
+],
+
+"zones":  [{
+	"id": 1,
+    "zone_id": 1,
+    "partner_id": 1,
+    "location_polygon": [{
+        "lat": 51.412229050767664,
+        "lon": 5.461354882995198
+      },
+      {
+        "lat": 51.4121946633339,
+        "lon": 5.461369617315976
+      },
+      {
+        "lat": 51.412191558116746,
+        "lon": 5.461350316427714
+      },
+      {
+        "lat": 51.4122259005753,
+        "lon": 5.461336082777498
+      }
+    ],
+    "postpone_second": 5
+  },
+  {
+  	"id": 2,
+    "zone_id": 2,
+    "partner_id": 1,
+    "location_polygon": [{
+        "lat": 51.412225868320775,
+        "lon": 5.461335890283801
+      },
+      {
+        "lat": 51.412191544437796,
+        "lon": 5.461349978432018
+      },
+      {
+        "lat": 51.41218861023389,
+        "lon": 5.4613334926655845
+      },
+      {
+        "lat": 51.41222296834058,
+        "lon": 5.46131883968224
+      }
+    ],
+    "postpone_second": 5
+  },
+  {
+  	"id": 3,
+    "zone_id": 3,
+    "partner_id": 2,
+    "location_polygon": [{
+        "lat": 51.4122228823285,
+        "lon": 5.461318326365715
+      },
+      {
+        "lat": 51.41218863663353,
+        "lon": 5.461333137497021
+      },
+      {
+        "lat": 51.41218546004153,
+        "lon": 5.4613146924478855
+      },
+      {
+        "lat": 51.412219788821126,
+        "lon": 5.461300120801974
+      }
+    ],
+    "postpone_second": 5
+  },
+  {
+  	"id": 4,
+    "zone_id": 4,
+    "partner_id": 1,
+    "location_polygon": [{
+        "lat": 51.41221389264519,
+        "lon": 5.461340815304781
+      },
+      {
+        "lat": 51.41221262886366,
+        "lon": 5.461332760388355
+      },
+      {
+        "lat": 51.412202313016834,
+        "lon": 5.46133759314857
+      },
+      {
+        "lat": 51.412203573870926,
+        "lon": 5.461345374233867
+      }
+    ],
+    "postpone_second": 5
+  }
+]
 }
